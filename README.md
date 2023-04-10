@@ -1,11 +1,15 @@
 <h1>TypeScript</h1>
 
-<p>Setups</p>
+<h3>Setups</h3>
+<p>Install TypeScript</p>
+
 ```
 npm install -g typescript ts-node
 ```
-```
-<a href="https://code.visualstudio.com/"> Vs code</a>
+
+Install Vs code editor
+
+<a href="https://code.visualstudio.com/"> Vs code </a>
 
 ```
 
