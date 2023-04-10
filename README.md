@@ -12,5 +12,5 @@ Install Vs code editor
 <a href="https://code.visualstudio.com/"> Vs code </a>
 
 ```
-
+npm install --save-dev --save-exact prettier
 ```
